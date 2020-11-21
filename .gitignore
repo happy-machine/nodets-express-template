@@ -1,0 +1,11 @@
+node_modules/
+.env
+universe.yaml
+/etc/.env
+/logs/
+.vscode/
+builds/
+build/
+cache/
+*.swp
+.DS_Store
